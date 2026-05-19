@@ -48,7 +48,7 @@ Desenvolver um dashboard analítico utilizando Power BI para análise de vendas 
 
 Durante este laboratório pratiquei:
 
-- criação de dashboards interativos
+- criação de dashboard interativo
 - organização visual de informações
 - análise de vendas globais
 - utilização de filtros dinâmicos
