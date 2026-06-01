@@ -19,7 +19,7 @@ Analisar vendas, custos e margem de lucro, permitindo acompanhar indicadores de 
 
 ## 📷 Dashboard
 
-![Dashboard](imagens/dashboard-lab2.png)
+![Dashboard](dashboard-lab2.png)
 
 ## 🛠️ Ferramentas
 
