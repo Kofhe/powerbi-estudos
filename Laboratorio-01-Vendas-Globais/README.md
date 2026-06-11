@@ -1,0 +1,60 @@
+# 📊 Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
+
+Projeto desenvolvido durante meus estudos no curso:
+
+🔗 [Microsoft Power BI Para Business Intelligence e Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science)
+
+Plataforma: Data Science Academy
+
+---
+
+## 🎯 Objetivo do Laboratório
+
+Desenvolver um dashboard analítico utilizando Power BI para análise de vendas globais, aplicando conceitos de visualização de dados, filtros interativos e indicadores de desempenho.
+
+---
+
+## 📚 Conteúdos Praticados
+
+- Carregamento de Fonte de Dados
+- Cartões de Métricas
+- Gráfico de Pizza
+- Gráfico de Barras Empilhadas
+- Gráfico de Barras Horizontais
+- Mapa Mundial
+- Aplicação de Filtros
+- Segmentações de Dados
+- Formatação Visual
+- Estilização de Dashboard
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Visualização de Dados
+
+---
+
+## 📷 Preview do Dashboard
+
+![Dashboard](dashboard.png)
+
+---
+
+## ✨ Aprendizados
+
+Durante este laboratório pratiquei:
+
+- criação de dashboard interativo
+- organização visual de informações
+- análise de vendas globais
+- utilização de filtros dinâmicos
+- construção de gráficos analíticos
+- boas práticas de design em dashboards
+
+---
+
+📌 Projeto desenvolvido para fins de estudo e evolução na área de Dados e Business Intelligence.
