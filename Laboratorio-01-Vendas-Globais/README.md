@@ -40,7 +40,7 @@ Desenvolver um dashboard analítico utilizando Power BI para análise de vendas 
 
 ## 📷 Preview do Dashboard
 
-![Dashboard](Captura de tela 2026-05-19 201724.png)
+![Dashboard](dashboard.png)
 
 ---
 
