@@ -30,17 +30,6 @@ Data Science Academy
 - SQL
 - GitHub
 
-## 📂 Projetos
-
-### 📌 Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
-
-Dashboard com:
-- KPIs
-- mapa mundial
-- gráficos interativos
-- segmentações de dados
-- análise de vendas globais
-
 ## 📚 Formação Atual
 
 Atualmente estou estudando através do curso:
