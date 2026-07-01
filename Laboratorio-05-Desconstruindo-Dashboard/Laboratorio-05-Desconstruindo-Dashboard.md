@@ -10,7 +10,7 @@ A proposta consiste em identificar os problemas existentes e aplicar melhorias p
 
 ### Dashboard Original
 
-![Dashboard bagunçado](imagens/dashboard-bagunçado.png)
+![Dashboard bagunçado](dashboard-bagunçado.png)
 
 ### Problemas Identificados
 
